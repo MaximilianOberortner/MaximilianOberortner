@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MaximilianOberortner
+- 👀 I’m interested in programming and sports
+- 🌱 I’m currently learning HTML, CSS and JS
+- 💞️ I’m looking to collaborate on some coding projects
+- 📫 Reach me per mail
+- 😄 Pronouns: they don't know me son!
