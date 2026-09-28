@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @MaximilianOberortner
 - 👀 I’m interested in programming and sports
-- 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate on some coding projects
+- 🌱 I’m currently learning HTML, CSS, JS, PHP, Next, Laravel and Agentic Coding
 - 📫 Reach me per mail
-- 😄 Pronouns: they don't know me son!
